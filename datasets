@@ -1,0 +1,5 @@
+datasets/demographic_indicators.csv
+datasets/economic_indicators.csv
+datasets/locations.csv
+datasets/sustainable_indicators.csv
+datasets/world_bank_sql_cleaned.csv
